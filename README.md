@@ -2,11 +2,7 @@
 
 ## Heatmaps: Electric Charging Stations and Residents in Berlin
 
-**Project done by group 15:**
-- **Shaheen Tasneem,** 
-- **Remezova Nataliia,** 
-- **Pandey Navnish Suryaprakash,** 
-- **Rohrscheidt Sebastian**         
+**Project done by group 2:**   
    
 ### Project Overview  
 This project aims to visualise the spatial distribution of residents and electric charging 
